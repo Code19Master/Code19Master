@@ -1,7 +1,7 @@
 <h1 align="center">Kon'nichiwa 👋, I'm Divik Babbar</h1>
 <h3 align="center">A Student and a Game Developer</h3>
 
-- 🔭 I’m currently working on **A Awesome game**
+- 🔭 I’m currently working on **Spotify Clone**
 
 - 🌱 I’m currently learning **Ethical Hacking And Swift**
 
